@@ -48,6 +48,7 @@
       "@hooks/*": ["./src/hooks/*"],
       "@navigation/*": ["./src/navigation"],
       "@styles/*": ["./src/styles/*"],
+      "@styles": ["./src/styles/index.ts"],
       "@utils/*": ["./src/utils/*"]
     },
     // "rootDirs": [],                        /* List of root folders whose combined content represents the structure of the project at runtime. */

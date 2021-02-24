@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Portfolio-tvOS.app"
-               BlueprintName = "Portfolio-tvOS"
-               ReferencedContainer = "container:Portfolio.xcodeproj">
+               BuildableName = "Foodie-tvOS.app"
+               BlueprintName = "Foodie-tvOS"
+               ReferencedContainer = "container:Foodie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Portfolio-tvOSTests.xctest"
-               BlueprintName = "Portfolio-tvOSTests"
-               ReferencedContainer = "container:Portfolio.xcodeproj">
+               BuildableName = "Foodie-tvOSTests.xctest"
+               BlueprintName = "Foodie-tvOSTests"
+               ReferencedContainer = "container:Foodie.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Portfolio-tvOS.app"
-            BlueprintName = "Portfolio-tvOS"
-            ReferencedContainer = "container:Portfolio.xcodeproj">
+            BuildableName = "Foodie-tvOS.app"
+            BlueprintName = "Foodie-tvOS"
+            ReferencedContainer = "container:Foodie.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Portfolio-tvOS.app"
-            BlueprintName = "Portfolio-tvOS"
-            ReferencedContainer = "container:Portfolio.xcodeproj">
+            BuildableName = "Foodie-tvOS.app"
+            BlueprintName = "Foodie-tvOS"
+            ReferencedContainer = "container:Foodie.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
