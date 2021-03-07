@@ -27,6 +27,7 @@ module.exports = {
           '@utils': './src/utils'
         }
       }
-    ]
+    ],
+    '@babel/plugin-proposal-export-namespace-from'
   ]
 }
